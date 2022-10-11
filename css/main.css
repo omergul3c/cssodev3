@@ -1,0 +1,37 @@
+.logo{
+	padding-bottom: 30px;
+	margin-top: 250px;
+	}
+
+.container{
+	width: auto;
+	text-align: center;
+}
+
+.search-bar{
+	border-radius:24px;
+	padding-bottom: 30px;
+	border: none;
+}
+
+.search-bar-dis{
+	display: flex;
+    z-index: 3;
+    height: 44px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: calc(632px + 6px);
+    width: auto;
+    max-width: 584px;
+	overflow:auto;
+	resize:none;
+	margin-bottom: 30px;
+
+}
+
+.outter{
+	overflow: hidden;
+}
